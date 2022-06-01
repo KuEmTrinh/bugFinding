@@ -22,12 +22,6 @@
 
 **Issue Resolved**: Time the bug was resovled  
 
-## Qiskit Reproduceable Bugs
-Qiskit is an open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.
-
-### Terra
-This element is Terra and is the foundation on which the rest of Qiskit is built.
-
 | Bug Id | Issue No | Tag | Fixed | Modify| Status |Version|Type|Test|Issue Registered | Issue Resolved |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | * 1 | [#1936](https://github.com/stan-dev/stan/issues/1936#issue-161614691) | アルゴリズム | [Fixed](https://github.com/stan-dev/stan/commit/2a769a131b376c7b7c0464470346a55273d1dca0) | []() | Closed | 0.11.0→master | Bug | [Test](./Terra_2/Test_1) |  22 Jun 2016 | committed on 27 Jun 2016 |
